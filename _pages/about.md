@@ -56,3 +56,5 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+
+- <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=7E250tPFDFf8CmNKqwz1BV1oL6gxw-dLHupj1jLi2OE&cl=ffffff&w=a"></script>
